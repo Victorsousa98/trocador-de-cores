@@ -1,3 +1,3 @@
 Trocador de Cores
 
-<video src="C:\workspace\flipper color\video.mp4"></video>
+<video src="flipper color\video.mp4"></video>

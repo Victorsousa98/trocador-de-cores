@@ -1,4 +1,5 @@
-/////////TROCADOR DE CORES SIMPLES/////////////////
+
+    /////////TROCADOR DE CORES SIMPLES/////////////////
 
 //Para fazer a aba simples do meu trocador, usarei uma array
 //fixa contendo cores fixas dentro dela

@@ -1,8 +1,9 @@
-/////////TROCADOR DE CORES HEXADECIMAIS/////////////////
+
+    /////////TROCADOR DE CORES HEXADECIMAIS/////////////////
 
 //para fazer minha hex,  irei fazer uma array que guarda todos os
 //caracters do codigo DE CORES HEXADECIAMAIS
-const hex = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 'A', 'B', 'C', 'D', 'F']
+const hex = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 'A', 'B', 'C', 'D', 'E', 'F']
 
 //agora vou selecionar o meu botão usando o querySelector
 //que tem o ID btn
@@ -31,3 +32,4 @@ const retornaNumeroAleatorio = () => {
 }
 
 //terminamos o nosso trocador de cores hexadecimais
+
